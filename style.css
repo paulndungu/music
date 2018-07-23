@@ -1,0 +1,89 @@
+body{
+    background-color: snow;
+}
+.h1{
+    color: brown;
+    font-family: 'Satisfy', cursive;
+    text-align: center
+}
+.musu{
+    color: gold;
+   font-family: 'Kaushan Script', cursive; 
+    text-align: center
+}
+.p1{
+    color: chartreuse;
+    font-family: 'Kalam', cursive;
+}
+.hist{
+    color: gold;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center
+}
+.p2{
+    color: chartreuse;
+    font-family: 'Kalam', cursive;
+}
+.per{
+    color: gold;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center
+}
+.p3{
+    color: chartreuse;
+    font-family: 'Kalam', cursive;
+}
+.ren{
+    color: silver;
+    font-family: 'Sacramento', cursive;
+    text-align: center
+}
+.p4{
+    color: chartreuse;
+   font-family: 'Kalam', cursive; 
+}
+.bar{
+    color: silver;
+  font-family: 'Spirax', cursive;
+    text-align: center
+}
+.p5{
+    color: chartreuse;
+    font-family: 'Kalam', cursive;
+}
+.classic{
+    color: silver;
+    font-family: 'Great Vibes', cursive;
+    text-align: center
+}
+.p6{
+    color: chartreuse;
+    font-family: 'Kalam', cursive;
+}
+.cent{
+    color: silver;
+    font-family: 'Monoton', cursive;
+    text-align: center
+}
+.p7{
+    color: chartreuse;
+    font-family: 'Kalam', cursive;
+}
+.socio{
+    color: gold;
+   font-family: 'Kaushan Script', cursive; 
+    text-align: center
+}
+.p8{
+    color: chartreuse;
+    font-family: 'Kalam', cursive;
+}
+.tech{
+    color: gold;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center
+}
+.p9{
+    color: chartreuse;
+     font-family: 'Kalam', cursive;
+}
